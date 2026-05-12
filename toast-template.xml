@@ -1,1 +1,13 @@
-<toast tag="001" launch="screen=inbox" displayTimestamp="2026-05-12T16:28:28.404+00:00"><visual><binding template="ToastGeneric"><image placement="hero" src="https://chie-gaming.com/data/avatars/o/0/5.jpg?1777759083"/><image placement="appLogoOverride" src="https://github.com/FreshLabs-Interactive/testupdatestoast/blob/main/icon.png"/><text>This is a preview!</text><text>You can change these settings!</text><text>And make multiple lines!</text><image src="https://upload.wikimedia.org/wikipedia/commons/8/85/Smiley.svg"/><text placement="attribution">FreshLabs Interactive 2026</text></binding></visual></toast>
+<toast tag="001" launch="screen=inbox" displayTimestamp="2026-05-12T16:28:28.404+00:00">
+  <visual>
+    <binding template="ToastGeneric">
+      <image placement="hero" src="https://chie-gaming.com/data/avatars/o/0/5.jpg?1777759083"/>
+      <image placement="appLogoOverride" src="https://github.com/FreshLabs-Interactive/testupdatestoast/blob/main/icon.png"/>
+      <text>This is a preview!</text>
+      <text>You can change these settings!</text>
+      <text>And make multiple lines!</text>
+      <image src="https://upload.wikimedia.org/wikipedia/commons/8/85/Smiley.svg"/>
+      <text placement="attribution">FreshLabs Interactive 2026</text>
+    </binding>
+  </visual>
+</toast>
